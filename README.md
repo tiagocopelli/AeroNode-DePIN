@@ -174,10 +174,6 @@ Contrato principal da rede.
 * Validação de cooldown.
 * Integração com o token ERC-20.
 
-### Diagrama
-
-![Contrato AeroNodeV3](./Img/AeroNodeV3.png)
-
 ### Funcionalidades
 
 ```solidity
@@ -198,10 +194,6 @@ consultarDados()
 ## 🪙 Contrato AeroToken.sol
 
 Token ERC-20 do ecossistema.
-
-### Diagrama
-
-![Contrato AeroToken](./Img/AeroToken.png)
 
 ### Características
 
@@ -458,7 +450,5 @@ O AeroNode demonstra como redes descentralizadas podem ser utilizadas para:
 # 👨‍💻 Autor
 
 **Tiago Lauriano Copelli**
-
-Residência em TIC29 - Trilha Web3
-
 HackWeb 2026
+(Nota de Desenvolvimento: Este projeto contou com o apoio de IA Generativa - Google Gemini - para auxiliar na estruturação do código dos contratos inteligentes, componentização do frontend e revisão da documentação).
