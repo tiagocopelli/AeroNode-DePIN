@@ -72,7 +72,8 @@ Toda a modelagem foi desenvolvida utilizando Blender.
 
 ## Esquemático da Placa
 
-![Esquemático AeroNode](./Esquematico%20AeroNode/Esquem%C3%A1tico_AeroNode.pdf)
+![Esquemático AeroNode](./Esquematico%20AeroNode/Esquematico%20AeroNode.png)
+
 
 ### Componentes Utilizados
 
