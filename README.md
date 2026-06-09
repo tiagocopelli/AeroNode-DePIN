@@ -422,6 +422,7 @@ O AeroNode demonstra como redes descentralizadas podem ser utilizadas para:
 # 👨‍💻 Autor
 
 **Tiago Lauriano Copelli**
+
 HackWeb 2026
 
 (Nota de Desenvolvimento: Este projeto contou com o apoio de IA Generativa - Google Gemini - para auxiliar na estruturação do código dos contratos inteligentes, componentização do frontend e revisão da documentação).
