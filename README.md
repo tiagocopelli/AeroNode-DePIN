@@ -74,6 +74,10 @@ Toda a modelagem foi desenvolvida utilizando Blender.
 
 ![Esquemático AeroNode](./Esquematico%20AeroNode/Esquematico%20AeroNode.png)
 
+## Placa de circuito impresso
+
+![Esquemático AeroNode](./Esquematico%20AeroNode/Placa%20PCB%20AeroNode.png)
+
 
 ### Componentes Utilizados
 
