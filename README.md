@@ -383,38 +383,6 @@ Upload para o ESP32.
 
 ---
 
-# 📂 Estrutura do Projeto
-
-```text
-AeroNode/
-│
-├── backend/
-│
-├── frontend/
-│
-├── firmware/
-│
-├── contracts/
-│   ├── AeroNodeV3.sol
-│   └── AeroToken.sol
-│
-├── Esquematico/
-│   └── esquematico_aeronode.png
-│
-├── Modelo 3D - Blender/
-│   └── Modelo3D.png
-│
-├── Img/
-│   ├── Dashboard.png
-│   ├── PrototipoAeroNode.jpg
-│   ├── AeroNodeV3.png
-│   └── AeroToken.png
-│
-└── README.md
-```
-
----
-
 # 🔒 Segurança
 
 ## Hardware-Bound Wallet
