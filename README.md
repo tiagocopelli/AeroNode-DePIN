@@ -419,6 +419,10 @@ O AeroNode demonstra como redes descentralizadas podem ser utilizadas para:
 
 ---
 
+# Vídeo-pitch: https://youtu.be/IiqZBIbwCok
+
+---
+
 # 👨‍💻 Autor
 
 **Tiago Lauriano Copelli**
